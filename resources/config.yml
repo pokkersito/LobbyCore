@@ -1,0 +1,6 @@
+# config.yml
+
+motd: "§8Puro §6PORNO"
+
+join-message: "§a[+] {player}"
+quit-message: "§c[-] {player}"
