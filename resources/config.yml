@@ -1,0 +1,28 @@
+# config.yml
+
+join-message: "§a[+] {player}"
+quit-message: "§c[-] {player}"
+
+Command1: "say A MANZANO LE GUSTA EL PENE"
+
+scoreboard:
+  title: '§l§5Zen §r§7- Hub #1'
+  lines:
+  - '{line}'
+  - '§7  > §r§6Name§r§7: §7{name}'
+  - '§7  > §r§6Rank§r§7: §7{rank}'
+  - '§7  > §r§6Ping§r§7: §7{ping}'
+  - '§7  > §r§6Online§r§7: §7{players}'
+  - §r{line}
+  - §7 {ip}
+
+
+#This Server Options
+
+IP: zenetwork.net
+motd: "§8Puro §6PORNO"
+scoreboard.lines: 
+
+#Pvp Map
+
+map-pvp: "world"
